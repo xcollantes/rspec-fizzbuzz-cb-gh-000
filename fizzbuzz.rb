@@ -9,6 +9,6 @@ def fizzbuzz(num)
   elsif div_by_five == 0
     return "Buzz"
   else
-    puts num
+    return nil
   end
 end
