@@ -6,8 +6,9 @@ def fizzbuzz(num)
     puts "FizzBuzz"
   elsif div_by_three == 0
     puts "Fizz"
-
   elsif div_by_five == 0
     puts "Buzz"
+  else
+    puts num
   end
 end
