@@ -9,7 +9,5 @@ def fizzbuzz(num)
 
   elsif div_by_five == 0
     puts "Buzz"
-
-  
   end
 end
